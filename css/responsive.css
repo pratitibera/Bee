@@ -1,0 +1,181 @@
+@media only screen and (min-width: 577px) {
+	.d-text-left {
+		text-align: left;
+	}
+	.index_header {
+		padding: 30px 120px 10px 120px;
+	}
+	#collapsibleNavbar {
+		justify-content: flex-end;
+	}
+	.bottom_header {
+		margin: -50px 80px 0px 80px;
+	}
+	.bottom_header .col-md-4:after {
+		content: '';
+		position: absolute;
+		top: 0;
+		right: 5px;
+		width: 1px;
+		background: #999999;
+		height: 100%;
+		transform: rotate(20deg);
+	}
+	#serviceslist {
+		padding: 15px 0px;
+	}
+	#serviceslist .owl-stage-outer {
+		margin: 0px 60px;
+	}
+	.d-text-center{
+		text-align: center;
+	}
+}
+
+@media only screen and (min-width: 1400px) {}
+
+@media only screen and (max-width: 576px) {
+	/* Global classes for mobile */
+	.mfo-35 {
+		font-size: 35px!important;
+	}
+	.mfo-32 {
+		font-size: 32px!important;
+	}
+	.mfo-30 {
+		font-size: 30px!important;
+	}
+	.mfo-28 {
+		font-size: 28px!important;
+	}
+	.mfo-25 {
+		font-size: 25px!important;
+	}
+	.mfo-24 {
+		font-size: 24px!important;
+	}
+	.mfo-22 {
+		font-size: 22px!important;
+	}
+	.mfo-20 {
+		font-size: 20px!important;
+	}
+	.mfo-18 {
+		font-size: 18px!important;
+	}
+	.mfo-17 {
+		font-size: 17px!important;
+	}
+	.mfo-16 {
+		font-size: 16px!important;
+	}
+	.mfo-15 {
+		font-size: 15px!important;
+	}
+	.mfo-14 {
+		font-size: 14px!important;
+	}
+	.mfo-13 {
+		font-size: 13px!important;
+	}
+	.mfo-12 {
+		font-size: 12px!important;
+	}
+	.mfo-11 {
+		font-size: 11px!important;
+	}
+	.mfo-10 {
+		font-size: 10px!important;
+	}
+	.mow-100 {
+		width: 100%!important;
+	}
+	.mow-50{
+		width: 50%!important;
+	}
+	.m-text-center {
+		text-align: center;
+	}
+	.m-text-right{
+		text-align: right;
+	}
+	.mh-64 {
+		height: 64%!important;
+	}
+	/* Custom classes */
+	nav {
+		border-radius: 0px;
+		z-index: 9;
+		padding: 0!important;
+	}
+	.header_section {
+		left: 0%;
+		right: 0%;
+	}
+	.header_form {
+		border-radius: 35px;
+	}
+	#collapsibleNavbar {
+		padding-left: 15px;
+		background-color: #777777;
+	}
+	.navbar-brand,
+	.menu-btn {
+		margin: 10px;
+	}
+	.bottom_header {
+		margin: 300px 10px 0px 10px;
+	}
+	#serviceslist {
+		padding: 8px 0px;
+	}
+	#serviceslist .owl-stage-outer {
+		margin: 0px 30px;
+	}
+	.car_services_section .col-6 {
+		padding: 0px 6px;
+	}
+	.click_section {
+		left: 16%;
+		right: 16%;
+		text-align: center;
+	}
+	.how_we_work_section .abs_img {
+		position: absolute;
+		top: 20%;
+		left: 27%;
+		text-align: center;
+	}
+	#reviews .owl-nav {
+		top: -5%;
+	}
+	#reviews .owl-nav .owl-prev {
+		left: 70%;
+	}
+	.review_text1 {
+		bottom: -8%;
+	}
+	.review_text2 {
+		bottom: -27%;
+	}
+	#reviews .owl-stage-outer {
+		padding-bottom: 90px;
+	}
+	.index_faq {
+		margin-top: 475px;
+	}
+	.index_header2 {
+	    height: 48vh;
+	}
+	.grey_bg{
+		height: 30vh;
+	}
+	.garage_recommendation{
+		margin-bottom: 10px;
+		width: 30px;
+		height: 30px;
+	}
+	.garage_recommendation img{
+		margin: 7px;
+	}
+}
